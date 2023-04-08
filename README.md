@@ -1,4 +1,4 @@
-:wave: Hello I am Adeeba Zia, a final year maths student.
+:wave: Hello I am Adeeba Zia, pursuing masters in mathematics.
 
 :dizzy: I belong from a non tech background but data analytics and storytelling is something that interests me a lot.
 
