@@ -1,6 +1,6 @@
 :wave: Hello I am Adeeba Zia, a final year maths student.
 
-:dizzy: Although I belong from a non tech background, data analytics is something that interests me a lot.
+:dizzy: I belong from a non tech background but data analytics and storytelling is something that interests me a lot.
 
 :smiley:  I currently use Python, SQL, Excel and Power BI for data querrying, manipulation and visualization.
 
