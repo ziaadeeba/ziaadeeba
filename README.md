@@ -1,7 +1,5 @@
 :wave: Hello I am Adeeba Zia, pursuing masters in mathematics.
 
-:dizzy: I belong from a non tech background but data analytics and storytelling is something that interests me a lot.
-
 :smiley:  I am currently using Python, SQL, Excel and Power BI for data querrying, manipulation and visualization.
 
 :cat: When I'm not studying, I am either reading books, listening to my favourite podcasts or playing with my cats.
